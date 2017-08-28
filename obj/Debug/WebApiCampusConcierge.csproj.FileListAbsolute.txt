@@ -1,0 +1,755 @@
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\25-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\30-4-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\new\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\5-5-2016\CC(4-5-16)\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\7-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\Campus Concierge\Integration\9-5-16\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\24-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\30-5-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\4-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\7-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\8-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.net.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\Campus Concierge\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\9-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\17-6-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\21-4-2016 pooja compus conci\Naisargi\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+C:\Users\Admin\Desktop\Campus\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\Vastal\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+C:\Users\Admin\Desktop\Campus\12-9-2016\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.net.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\jaimin data\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\Newtonsoft.Json.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\RestSharp.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.net.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\RestSharp.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\jaimindata\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\RestSharp.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\RestSharp.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+E:\jaimin system backup\jaimin lastes data\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\RestSharp.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\Stripe.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\WebGrease.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\RestSharp.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\WebApiCampusConcierge\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\RestSharp.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\Stripe.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\WebGrease.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\RestSharp.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\WebApiCampusConcierge06june\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\WebApiCampusConcierge.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\WebApiCampusConcierge.pdb
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\Antlr3.Runtime.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\EntityFramework.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\RestSharp.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\Stripe.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Net.Http.Formatting.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Helpers.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Http.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Http.WebHost.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Mvc.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Optimization.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Providers.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Razor.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.WebPages.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\WebGrease.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\RestSharp.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\EntityFramework.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Net.Http.Formatting.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Helpers.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Http.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Http.WebHost.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Mvc.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.Razor.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.WebPages.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.WebPages.Deployment.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\bin\System.Web.WebPages.Razor.xml
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.csprojResolveAssemblyReference.cache
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.dll
+D:\WebApiCampusConcierge06junejaimin\WebApiCampusConcierge\obj\Debug\WebApiCampusConcierge.pdb

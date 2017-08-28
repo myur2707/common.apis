@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js">
+</script>
+    <script>
+
+        //$(document).ready(function () {
+
+
+
+        //});
+        $(Document).on("click", "#test1", function () {
+            debugger;
+            alert("test");
+            var a = "";
+            $.ajax({
+                type: "GET",
+                url: "http://182.70.119.213//WedHubApi/api/GeneralWedHub/GetCategory",
+                //data: JSON.stringify({ "email_id": a }),
+
+                contentType: "application/json; charset=utf-8",
+                success: function (result) {
+                    debugger;
+                    var notifications = JSON.parse(result);
+                    alert(notifications["message"])
+
+                },
+                error: function (e) {
+                    alert(e.Response_Object.Message);
+                }
+            });
+        });
+
+        $(Document).on("click", "#send", function () {
+            debugger;
+            var a = $('#email').val();
+            $.ajax({
+                type: "GET",
+                // url: "http://182.70.119.213//WebApiCampusConcierge/api/QUA_postservice/email_template",
+                url: "http://182.70.119.213//WebApiCampusConcierge/api/QUA_postservice/emailmail",
+                // data: JSON.stringify({ "email_id": a }),
+
+                contentType: "application/json; charset=utf-8",
+                success: function (result) {
+                    debugger;
+                    var notifications = JSON.parse(result);
+                    alert(notifications["message"])
+                    $('#email').val("");
+                },
+                error: function (e) {
+                    alert(e.Response_Object.Message);
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+<!--    <input type="text" id="email" />
+    <button id="test">add</button>
+
+    <button id="send">send mail</button>-->
+
+    <button id="test1" value="test">add</button>
+</body>
+</html>
